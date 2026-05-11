@@ -1,0 +1,9 @@
+# Edit this file to choose which learner profiles appear on the public front page.
+# Keep this file as an index only. Public profile text should live in the
+# referenced Markdown files, not here.
+
+people:
+  - profile: people/ty-tuff.md
+  - profile: people/aakriti-joshi.md
+  - profile: people/jane-example.md
+  - profile: people/john-example.md

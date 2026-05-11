@@ -1,0 +1,141 @@
+site_name: "OASIS Project Group Template"
+site_description: 'Central resource for ESIIL Summit teams'
+site_author: Ty Tuff
+site_url: "https://cu-esiil.github.io/Summit_group_2026_4/"
+
+# Repository
+repo_name: link to repo
+repo_url: https://github.com/CU-ESIIL/Summit_group_2026_4
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2024 University of Colorado Boulder · MIT License'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Example: example.md
+  # Instructions are hidden from the sidebar for now. Uncomment this block to show them again.
+  # - Instructions:
+  #     - Day 1 — Form Your Summit Team: instructions/day1.md
+  #     - Day 2 — Build and Report Back: instructions/day2.md
+  #     - Day 3 — Synthesize and Share: instructions/day3.md
+  #- AI for Sustainability:
+  #    - Defining AI: ai-for-sustainability/defining-ai.md
+  #    - Defining Sustainability: ai-for-sustainability/defining-sustainability.md
+  #    - Norms: ai-for-sustainability/norms.md
+  #    - What Does It Cost?: ai-for-sustainability/what-does-it-cost.md
+  - Specialty Tracks:
+      - LLM: https://cu-esiil.github.io/LLM_lesson_exemplar/cyverse/
+      - Digital Twins: specialty-tracks/digital-twins.md
+      - Earth Embeddings: https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/en/index.html
+      # - Causal Inference: specialty-tracks/causal-inference.md
+  - Cloud Triangle:
+      - Connect instance to GitHub: instructions/link-to-github.md
+      - Instance to/from GitHub: instructions/push-to-github.md
+      - Instance to/from persistent storage: instructions/save-to-persistent-storage.md
+  - Links:
+      - Your code: https://github.com/CU-ESIIL/Summit_group_2026_4/tree/main/code
+      - Your documentation: https://github.com/CU-ESIIL/Summit_group_2026_4/tree/main/documentation
+      - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_Summit_2026/Group_4?type=folder&resourceId=a1d20a86-4d8d-11f1-b642-90e2ba675364"
+
+
+not_in_nav: |
+  data.md
+  stickers.md
+  instructions.md
+  instructions/day1.md
+  instructions/day2.md
+  instructions/day3.md
+  project_template.md
+  assets/cyverse_basics/README.md
+  assets/docker_basics/README.md
+  assets/template/README.md
+  orientation/art_gallery.md
+  orientation/cyverse_basics.md
+  orientation/docker_basics.md
+  orientation/markdown_basics.md
+  people/README.md
+  people/template.md
+  people/jane-doe.md
+  people/john-smith.md
+  people/ty-tuff.md
+  people/aakriti-joshi.md
+  people/jane-example.md
+  people/john-example.md
+
+# Configuration
+theme:
+  highlightjs: true
+  name: material
+  custom_dir: docs/overrides
+  font: false
+  logo: 'assets/oasis_logo.png'
+  favicon: 'assets/esiil_content/favicon.ico'
+  # setting features for the navigation tab
+  features:
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+# Options
+extra:
+  homepage: https://cu-esiil.github.io/home/
+  social:
+    - icon: fontawesome/brands/github
+    # link: https://github.com/cu-esiil/
+
+extra_css:
+  - stylesheets/tokens.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mode-toggle.js
+  - javascripts/presentation-mode.js
+  - javascripts/report-out-gallery.js
+
+hooks:
+  - hooks.py
+
+plugins:
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True
+markdown_extensions:
+  - admonition
+  - toc:
+      toc_depth: 2
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path:
+        - docs
+
+validation:
+  omitted_files: ignore
