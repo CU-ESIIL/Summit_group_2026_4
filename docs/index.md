@@ -62,10 +62,10 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
-1. Qinghua Zhao, University of Notre Dame, email:qinghua.w.zhao@outlook.com, Github: QZhao16
-2. 
+| Qinghua Zhao | University of Notre Dame | qinghua.w.zhao@outlook.com | QZhao16 |
+| Lucas Mansfield | Michigan State University | mansfi79@msu.edu | lmansf44 |
+| Jenna Baljuna | Michigan State University | baljunas@msu.edu | Jbaljunas |
+
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Day 1 task"
