@@ -64,7 +64,8 @@ public_mode_toggle: true
 |---|---|---|---|
 | | | | |
 | | | | |
-
+1. Qinghua Zhao, University of Notre Dame, email:qinghua.w.zhao@outlook.com, Github: QZhao16
+2. 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Day 1 task"
