@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 4 Home: Make Me Your Own
+# Team 4 Home: Data Buffs: Wrangling Data using Language Models
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
