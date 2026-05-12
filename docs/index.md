@@ -62,9 +62,10 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
+| Andy Wilson | Denver Botanic Gardens | andrew.wilson@botanicgardens.org | MycoMisfit |
 | Qinghua Zhao | University of Notre Dame | qinghua.w.zhao@outlook.com | QZhao16 |
 | Lucas Mansfield | Michigan State University | mansfi79@msu.edu | lmansf44 |
-| Jenna Baljuna | Michigan State University | baljunas@msu.edu | Jbaljunas |
+| Jenna Baljunas | Michigan State University | baljunas@msu.edu | Jbaljunas |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
