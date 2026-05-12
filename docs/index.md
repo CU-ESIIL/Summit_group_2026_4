@@ -1,5 +1,5 @@
 ---
-title:  Data Buffs: Wrangling Data using Language Models
+title:  Data Buffs - Wrangling Data using Language Models
 public_mode_toggle: true
 ---
 
