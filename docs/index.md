@@ -139,8 +139,6 @@ Credit: Allison Horst
 
 - An AI Agent that can read in a single PDF file and extract, organize and sort its data. This will be the first step towards downstream itterations where data from multiple publications will be made available for developing the Agent's ability to harmonize and combine the invormation into a single meta-dataset. 
 
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
