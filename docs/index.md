@@ -181,10 +181,10 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| Agentic AI | ... | ... |
+| Semantic Matching of Data | ... | ... |
+| Redundancy Detection/Elimination | ... | ... |
+
 
 ### Challenges identified
 
