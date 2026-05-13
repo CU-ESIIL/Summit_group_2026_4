@@ -72,7 +72,7 @@ Credit: Allison Horst
 | Qingyu Gan | University of Wyoming | ganjiuyue@gmail.com | qingyu1gan |
 | Mengying Zhang | Clemson University | mengyiz@clemson.edu | mengying1999-git |
 | Chhabilal Regmi | Navajo Technical University | c.regmi@navajotech.edu |c.regmi@navajotech.edu |
-|  |  |  |  |
+| Julia Sanguinetti | Ingredion | julia.sanguinett@gmail.com | juliasng |
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
