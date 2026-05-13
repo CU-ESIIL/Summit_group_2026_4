@@ -131,7 +131,7 @@ Methods/Perspective paper regarding AI-enabled workflow, including case studies 
 
 Our working question:
 
-...
+How can we create an agent-based workflow that harmonizes many different kinds of data, from different fields of interest for the purpose of assembling a meta dataset for analysis?
 
 What would count as progress:
 
