@@ -152,7 +152,6 @@ Credit: Allison Horst
 - This work would have applications across the environmental sciecnes (e.g. biogeography, fire ecology, aquatic systems, atmospheric chemistry, epidemiology, etc.), but could also be easily adapted to a variety of academic disciplines (e.g. materials science, sociology, psychology, physics, etc.).
 - This workflow could be applied by researchers with little experience in the computer sciences or AI technology.
 
-...
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -167,10 +166,9 @@ Credit: Allison Horst
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- Journal: [*PLOS One*](https://journals.plos.org/plosone/)
+- Data Repo: [Zenodo](https://zenodo.org/)
+- Data Repo: [Dryad](https://datadryad.org/) 
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
