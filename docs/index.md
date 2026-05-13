@@ -79,6 +79,9 @@ Credit: Allison Horst
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
+![Workflow diagram](assets/whiteboards/workflow.png)
+
+
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 ### Our working question:
