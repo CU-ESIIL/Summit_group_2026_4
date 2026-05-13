@@ -104,7 +104,7 @@ Our team norms:
 
 Our decision making strategy:
 
-...
+We will hold a group discussion, hear ideas from each member, and vote to select a path forward.
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
