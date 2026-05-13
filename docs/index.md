@@ -143,8 +143,7 @@ Methods/technologies we are testing:
 
 ### Challenges identified
 
-- ...
-- ...
+- Access to journals for agents
 
 ### Visuals
 
@@ -152,9 +151,12 @@ Methods/technologies we are testing:
 
 ### Next Steps
 
-Short term: 
+#### Short term: 
+- Developing AGENTS.md and step1.md
 
-Long term: 
+#### Long term: 
+- Developing step2.md
+- Validating workflow with examples
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
