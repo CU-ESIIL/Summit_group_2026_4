@@ -115,7 +115,7 @@ Credit: Allison Horst
 
     Add 2-4 promising data sources (links +1-line notes)    
 
-![Exploration figure](assets/explorations/explore_data_plot.png)
+![Exploration figure](assets/explorations/data.png)
 
 *Snapshot showing initial data patterns.*
 
