@@ -67,6 +67,12 @@ Credit: Allison Horst
 | Qinghua Zhao | University of Notre Dame | qinghua.w.zhao@outlook.com | QZhao16 |
 | Lucas Mansfield | Michigan State University | mansfi79@msu.edu | lmansf44 |
 | Jenna Baljunas | Michigan State University | baljunas@msu.edu | Jbaljunas |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -90,9 +96,9 @@ Credit: Allison Horst
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Actively listen to each other and take into account each persons ideas
+- Each member will have a role and responsibility within the team
+- 
 
 Our decision making strategy:
 
