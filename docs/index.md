@@ -79,8 +79,6 @@ Credit: Allison Horst
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
-![Workflow diagram](assets/workflow.png)
-
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -147,7 +145,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](assets/figures/figure1.png)
+![Method or workflow visual](assets/workflow.png)
 
 ### Next Steps
 
