@@ -35,6 +35,7 @@ public_mode_toggle: true
     
 
 ![Team hero image](assets/hero/hero.png)
+Credit: Allison Horst
 
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
