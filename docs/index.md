@@ -68,9 +68,9 @@ Credit: Allison Horst
 | Lucas Mansfield | Michigan State University | mansfi79@msu.edu | lmansf44 |
 | Jenna Baljunas | Michigan State University | baljunas@msu.edu | Jbaljunas |
 | Rick Levy | Denver Botanic Gardens | richard.levy@botanicgardens.org | ricklevy21 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Savini Samarasinghe | Illinois State Water Survey  | savinis@illinois.edu  | savinims |
+| Qingyu Gan | University of Wyoming | ganjiuyue@gmail.com | qingyu1gan |
+| Mengying Zhang | Clemson University | mengyiz@clemson.edu | mengying1999-git |
 |  |  |  |  |
 
 
