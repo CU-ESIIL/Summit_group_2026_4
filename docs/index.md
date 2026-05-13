@@ -99,7 +99,8 @@ Our team norms:
 
 - Actively listen to each other and take into account each persons ideas
 - Each member will have a role and responsibility within the team
-- 
+- Each member will treat each other member with respect
+- Commits will be detailed and filled in to track versions
 
 Our decision making strategy:
 
