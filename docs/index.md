@@ -95,16 +95,16 @@ Credit: Allison Horst
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
-Our team norms:
+### Our team norms:
 
 - Actively listen to each other and take into account each persons ideas
 - Each member will have a role and responsibility within the team
 - Each member will treat each other member with respect
 - Commits will be detailed and filled in to track versions
 
-Our decision making strategy:
+### Our decision making strategy:
 
-We will hold a group discussion, hear ideas from each member, and vote to select a path forward.
+- We will hold a group discussion, hear ideas from each member, and vote to select a path forward.
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -115,13 +115,13 @@ We will hold a group discussion, hear ideas from each member, and vote to select
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-Short term:
+### Short term:
 
-Generalized workflow for using AI agent to find, extract and harmonize data from diverse resource types to answer questions in environmental science, with an included example case study.
+ - Generalized workflow for using AI agent to find, extract and harmonize data from diverse resource types to answer questions in environmental science, with an included example case study.
 
-Long term:
+### Long term:
 
-Methods/Perspective paper regarding AI-enabled workflow, including case studies from various fields and with various outputs. 
+- Methods/Perspective paper regarding AI-enabled workflow, including case studies from various fields and with various outputs. 
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_pic.jpeg)
 
@@ -129,24 +129,28 @@ Methods/Perspective paper regarding AI-enabled workflow, including case studies 
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-Our working question:
+### Our working question:
 
-How can we create an agent-based workflow that harmonizes many different kinds of data, from different fields of interest for the purpose of assembling a meta dataset for analysis?
+- How can we create an agent-based workflow that harmonizes many different kinds of data, from different fields of interest for the purpose of assembling a meta dataset for analysis?
 
-What would count as progress:
+### What would count as progress:
 
-An AI Agent that can read in a single PDF file and extract, organize and sort it's data. This will be the first step towards downstream itterations where data from multiple publications will be made available for developing the Agent's ability to harmonize and combine the invormation into a single meta-dataset. 
+- An AI Agent that can read in a single PDF file and extract, organize and sort its data. This will be the first step towards downstream itterations where data from multiple publications will be made available for developing the Agent's ability to harmonize and combine the invormation into a single meta-dataset. 
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
-This matters because:
+### This matters because:
 
-...
+- This work would enable more effecient data synthesis and harmonization for researchers to perform large-scale meta-analyses across scales and disciplines.
+- It also provides the ability to create larger datasets from disparate sources.
 
-People who could use this:
+### People who could use this:
+
+- This work would have applications across the environmental sciecnes (e.g. biogeography, fire ecology, aquatic systems, atmospheric chemistry, epidemiology, etc.), but could also be easily adapted to a variety of academic disciplines (e.g. materials science, sociology, psychology, physics, etc.).
+- This workflow could be applied by researchers with little experience in the computer sciences or AI technology.
 
 ...
 
