@@ -123,7 +123,7 @@ Long term:
 - ...
 - ...
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
+![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_pic.jpeg)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
