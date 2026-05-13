@@ -71,6 +71,7 @@ Credit: Allison Horst
 | Savini Samarasinghe | Illinois State Water Survey  | savinis@illinois.edu  | savinims |
 | Qingyu Gan | University of Wyoming | ganjiuyue@gmail.com | qingyu1gan |
 | Mengying Zhang | Clemson University | mengyiz@clemson.edu | mengying1999-git |
+| Chhabilal Regmi | Navajo Technical University | c.regmi@navajotech.edu |c.regmi@navajotech.edu |
 |  |  |  |  |
 
 
