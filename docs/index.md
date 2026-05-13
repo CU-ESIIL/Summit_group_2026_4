@@ -117,12 +117,11 @@ We will hold a group discussion, hear ideas from each member, and vote to select
 
 Short term:
 
-...
+Generalized workflow for using AI agent to find, extract and harmonize data from diverse resource types to answer questions in environmental science, with an included example case study.
 
 Long term:
 
-- ...
-- ...
+Methods/Perspective paper regarding AI-enabled workflow, including case studies from various fields and with various outputs. 
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_pic.jpeg)
 
