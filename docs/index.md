@@ -67,11 +67,11 @@ Credit: Allison Horst
 | Qinghua Zhao | University of Notre Dame | qinghua.w.zhao@outlook.com | QZhao16 |
 | Lucas Mansfield | Michigan State University | mansfi79@msu.edu | lmansf44 |
 | Jenna Baljunas | Michigan State University | baljunas@msu.edu | Jbaljunas |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Rick Levy | Denver Botanic Gardens | richard.levy@botanicgardens.org | ricklevy21 |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
