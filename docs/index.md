@@ -21,11 +21,6 @@ public_mode_toggle: true
 
 # Data Buffs: Wrangling Data using Language Models
 
-!!! note "Day 1 directions"
-    Change the title to the name of your project.
-
-    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
-
 !!! tip "For ESIIL staff"
     Group Number: 4
     
@@ -37,29 +32,9 @@ public_mode_toggle: true
 ![Team hero image](assets/hero/hero.png)
 Credit: Allison Horst
 
-!!! note "How to replace the image above"
-    Upload an image that represents your project and welcome people to your page. 
-    
-    Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
-    Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
-
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_4/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
-
-
-[See a completed example](example.md){ .md-button }
 
 ## People { #people .oasis-report-out-context }
 
-!!! note "Day 1 task"
-    Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
-
-    Use the in-person name cards to guide quick introductions.
-
-    | Name card prompts | Follow-up notes |
-    |---|---|
-    | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
-
-    [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
@@ -77,23 +52,6 @@ Credit: Allison Horst
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-    
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement | 
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 ### Our team norms:
 
@@ -108,12 +66,6 @@ Credit: Allison Horst
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
-    Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 ### Short term:
 
