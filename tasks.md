@@ -40,6 +40,8 @@ Search for linked datasets referenced in articles or associated available data.
 
 # Step 2
 
+Refer to `STEP2.md` for instructions on performing the following tasks.
+
 ## Tasks
 
 ### Task 4
