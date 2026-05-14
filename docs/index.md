@@ -168,7 +168,8 @@ Promising data sources:
 
 - Journal: [*PLOS One*](https://journals.plos.org/plosone/)
 - Data Repo: [Zenodo](https://zenodo.org/)
-- Data Repo: [Dryad](https://datadryad.org/) 
+- Data Repo: [Dryad](https://datadryad.org/)
+- [Compiled folder](docs/_data/pdfs/Laccaria) of <i>Laccaria</i> taxonomy and systematics
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -238,13 +239,11 @@ Headline 3 — implication for practice or policy
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
 Short term:
-
-- Work as a group remotely to develop the foundational tools for this AI workflow for extracting data from published research and harmonizing the data to create analyzable meta-datasets (A3IW).
+- Work as a group remotely to develop the foundational tools for this AI workflow that is developed to extract data from published research and harmonize the data to create analyzable meta-datasets (A3IW).
 
 - Collaborate on a paper for Environmental Data Science that describes the foundational results of our AI workflow .
 
 Long term:
-
 - Continue to develop the above-ground applications of the workflow so it can apply to working with data from multiple discilplines.
 
 - Questions we can attempt to address:
