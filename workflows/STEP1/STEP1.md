@@ -48,3 +48,14 @@ Once all mandatory inputs are provided, ad optional inputs are passed or skipped
 
 ## Task 1 - Determine Access To Journal(s)
 
+For the journals specified by the user, determine agent's access and ability to access and download associated data.
+
+If at least one journal is inaccessible and at least one other is accessible, pause the workflow and display a failure error message describing which journal(s) were inaccessible.
+
+For example: "Nature is not accessible to the agent. PLOS ONE is accessible to the agent. Would you like to proceed with journals specified earlier, or refine your input?"
+
+If no journals provided by the user are accessible, do not proceed without additional journals input by the user.
+
+## Task 2 - Find relevant articles
+
+
