@@ -194,7 +194,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](assets/visual.png)
+![Method or workflow visual](assets/workflow.png)
 
 ### Next Steps
 
@@ -237,9 +237,9 @@ Once we have developed this tool, researchers from across disciplines should be 
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result.png)
+![Story visual](assets/figures/visual.png)
 
-*Visual 1: the main pattern or output we want people to remember.*
+*General workflow outputs for our agent.*
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
