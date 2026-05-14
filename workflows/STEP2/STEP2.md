@@ -1,4 +1,6 @@
-This file contains specific instructions for how the agent should handle processes during Step 1.
+# Step 2
+
+This file contains specific instructions for how the agent should handle processes during Step 2.
 
 ---
 
@@ -32,23 +34,75 @@ Log all user prompts and actions taken by the agent into:
 
 ---
 
-### Task 4
-For every paper found:
+# Task 4 - Download Associated Datasets
 
-- Download the associated dataset.
-- Include:
+For every paper documented as a citation and DOI in:
+
+```text
+/workflows/STEP1/output/Step1Output.md
+```
+
+- Download the associated datasets as CSV files and save them to:
+
+```text
+/workflows/STEP2/output/datasets
+```
+
+- Name each CSV using the publication year and title.
+- Include the following information in each CSV:
   - DOI
   - Citation
   - Dataset URL
 
-### Task 5
+---
+
+# Task 5 - Build Dataframes
+
 Build a dataframe for each publication or dataset that was downloaded.
 
-### Task 6
-For each dataframe:
+---
 
-- Output the first 5 rows for user evaluation.
+# Task 6 - Display Dataframe Summaries
+
+For each dataframe that was created:
+
+- Output the first 5 rows.
+- Output the column headers for user evaluation.
 - State:
   - Total number of rows
   - Metadata
   - Citations
+
+Display these summaries for the user.
+
+---
+
+# Task 7 - Confirm Dataset Relevance and Prepare for Harmonization
+
+Prompt the user:
+
+> Are these datasets relevant to what you are trying to find?
+
+If the user responds negatively:
+
+- Prompt the user for further instruction.
+
+If the user responds yes:
+
+- Continue the workflow.
+- Prompt the user to identify the columns, headers, or types of data they wish to keep for further steps.
+- Prompt the user to decide whether they want to retain the dataframes in their current unharmonized format before the harmonization process begins.
+
+If the user responds yes to retaining the unharmonized dataframes, save the dataframes in:
+
+```text
+/workflows/STEP2/output/rawdata
+```
+
+Then continue to:
+
+```text
+/workflows/STEP3/STEP3.md
+```
+
+for data harmonization.
