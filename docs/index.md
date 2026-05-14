@@ -124,7 +124,7 @@ Credit: Allison Horst
 
 - Methods/Perspective paper regarding AI-enabled workflow, including case studies from various fields and with various outputs. 
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_pic.jpeg)
+![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_d2.jpeg)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
@@ -228,11 +228,12 @@ Iterative tests of the developed agents have helped us to understand:
 
 Headline 2 — change/trend/contrast
 
-...
+Ourgroup developed and tested markdown files for the following tasks:
+
 
 Headline 3 — implication for practice or policy
 
-Once we have developed this tool, researchers from across disciplines should be able to trac
+Once we have developed this tool, researchers from across disciplines should be able to assemble datasets relevant to their research. This will ideally assist reseachers in producing comprehensive datasets that incorporates the greatest possible breadth of data available for their research questions.
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
