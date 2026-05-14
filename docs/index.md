@@ -96,6 +96,13 @@ Credit: Allison Horst
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
+## Team Photo { #team-photo }
+
+![Team photo](assets/team/team_photo.jpg)
+
+*Data Buffs Team Members.*
+
+
 ### Our team norms:
 
 - Actively listen to each other and take into account each persons ideas
@@ -211,12 +218,6 @@ Methods/technologies we are testing:
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
-
-## Team Photo { #team-photo }
-
-![Team photo](assets/team/team_photo.jpg)
-
-*Data Buffs Team Members.*
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
