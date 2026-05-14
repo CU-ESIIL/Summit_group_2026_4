@@ -75,6 +75,11 @@ Credit: Allison Horst
 | Chhabilal Regmi | Navajo Technical University | c.regmi@navajotech.edu |c.regmi@navajotech.edu |
 | Julia Sanguinetti | Ingredion | julia.sanguinett@gmail.com | juliasng |
 
+## Team Photo { #team-photo }
+
+![Team photo](assets/team/team_photo.jpg)
+
+*Data Buffs Team Members.*
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -95,12 +100,6 @@ Credit: Allison Horst
     | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
-
-## Team Photo { #team-photo }
-
-![Team photo](assets/team/team_photo.jpg)
-
-*Data Buffs Team Members.*
 
 
 ### Our team norms:
