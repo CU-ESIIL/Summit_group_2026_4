@@ -1,4 +1,4 @@
-# Step 2
+# Step 3
 
 This file contains specific instructions for how the agent should handle processes during Step 3.
 
@@ -34,27 +34,36 @@ Log all user prompts and actions taken by the agent into:
 
 ---
 
-#### Task 8
+# Task 8 - Harmonize Data
 
-Across dataframes, conduct semantic matching so that terms or entities are named consitently and retain the same meaning.
+Across dataframes, conduct semantic matching so that terms or entities are named consistently and retain the same meaning.
 
 Translate terms into Standard U.S. English.
 
-Normalize, convert, and standardize data if they occur in different units. Use metric.
+Normalize, convert, and standardize data if they occur in different units. Use metric units.
 
-Produce a metadata table, listing the columns, units, example data, definitions, categories.
+Produce a metadata table listing:
 
-Prompt the user if changes are needed to how the data are presented or formatted.
+- Columns
+- Units
+- Example data
+- Definitions
+- Categories
 
-Incorporate any changes that are requested by the user and represent the metadata table.
+Prompt the user to identify whether changes are needed to how the data are presented or formatted.
 
-#### Task 9
+Incorporate any changes requested by the user and re-present the metadata table.
 
-Merge all normalized data into a single data frame.
+---
+
+# Task 9 - Merge and Save Harmonized Data
+
+Merge all normalized data into a single dataframe.
 
 Present the first 25 rows of data in a table to the user.
 
-Convert the dataframe to CSV and save in /workflows/STEP3/output/harmonizedData
+Convert the dataframe to CSV and save it in:
 
-
-
+```text
+/workflows/STEP3/output/harmonizedData
+```
