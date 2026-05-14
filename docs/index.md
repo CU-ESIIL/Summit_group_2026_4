@@ -202,6 +202,7 @@ Methods/technologies we are testing:
 
 ![Method or workflow visual](assets/workflow.png)
 
+
 ### Next Steps
 
 #### Short term: 
@@ -241,6 +242,7 @@ Once we have developed this tool, researchers from across disciplines should be 
 ## Visual representation of findings 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 ![Story visual](assets/figures/visual.png)
+![MetadataImage](assets/images/metadataSummary.png)
 
 *General workflow outputs for our agent.*
 
