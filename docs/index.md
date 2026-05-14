@@ -190,6 +190,7 @@ Methods/technologies we are testing:
 ### Challenges identified
 
 - Access to journals for agents
+- Access to papers with datasets already available, vs. pulling papers that were printed before data was digitized.
 
 ### Visuals
 
@@ -198,7 +199,8 @@ Methods/technologies we are testing:
 ### Next Steps
 
 #### Short term: 
-- Developing AGENTS.md and step1.md
+- Developing AGENTS.md, tasks.md, and step1.md.
+- test these initial stages to the workflow.
 
 #### Long term: 
 - Developing step2.md
@@ -220,7 +222,9 @@ Methods/technologies we are testing:
 
 Headline 1 — what, where, how much
 
-...
+Iterative tests of the developed agents have helped us to understand:
+- The ability of the AI agent to complete tasks when given multiple or individual commands.
+      Initial outcomes showed that the results of directions depended on whether they were given one at a time or in combination. Example: "Find me a paper on x subject AND extract it's data" did not work as well as "Find me a paper on x subject" followed by "Please extract it's data".
 
 Headline 2 — change/trend/contrast
 
@@ -228,7 +232,7 @@ Headline 2 — change/trend/contrast
 
 Headline 3 — implication for practice or policy
 
-...
+Once we have developed this tool, researchers from across disciplines should be able to trac
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
@@ -239,6 +243,9 @@ Headline 3 — implication for practice or policy
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
 Short term:
+
+- Make a plan for continued collaboration after the unconference. Meet once a month over zoom?
+
 - Work as a group remotely to develop the foundational tools for this AI workflow that is developed to extract data from published research and harmonize the data to create analyzable meta-datasets (A3IW).
 
 - Collaborate on a paper for Environmental Data Science that describes the foundational results of our AI workflow .
