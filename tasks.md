@@ -32,14 +32,15 @@ Find relevant articles based on the user’s inputs.
 
 - Check whether articles include available datasets.
 
+### Task 3
+Search for linked datasets referenced in articles or associated available data.
+
+
 ---
 
 # Step 2
 
 ## Tasks
-
-### Task 3
-Search for linked datasets referenced in articles or associated available data.
 
 ### Task 4
 For every paper found:
