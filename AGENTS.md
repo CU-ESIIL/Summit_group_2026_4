@@ -26,5 +26,5 @@ Guidelines for agents:
 
 ## Repository Purpose
 
-See **TASKS.md** for a plain-English description of the harmonization pipeline.
-The **TASKS.md** file does not contain any specific instructions, but instead should serve as a general reference for aligning the agent goals. Specific instructions (regarding code, etc.) are contained within files structured as `STEPX.md`. The **TASKS.md** will instruct you to reference specific step files for detailed instructions on each task.
+See **tasks.md** for a plain-English description of the harmonization pipeline.
+The **tasks.md** file does not contain any specific instructions, but instead should serve as a general reference for aligning the agent goals. Specific instructions (regarding code, etc.) are contained within files structured as `STEPX.md`. The **tasks.md** will instruct you to reference specific step files for detailed instructions on each task.
