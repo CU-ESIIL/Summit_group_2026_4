@@ -64,3 +64,22 @@ For each dataframe:
   - Total number of rows
   - Metadata
   - Citations
+  
+### Task 7
+Confirm Dataset Relevance
+Identify the columns, headers, or types of data for future outputs
+Determine whether to retain the raw dataframes    
+
+---
+
+# Step 3
+
+Refer to `STEP3.md` for instructions on performing the following tasks.
+
+### Task 8
+Across dataframes, conduct semantic matching, translate terms, normalize, convert, and standardize data.
+Produce a metadata table for user confirmation.
+
+### Task 9
+Merge data into a single data frame.
+Present data to the user and save the final output.
