@@ -169,7 +169,7 @@ Promising data sources:
 - Journal: [*PLOS One*](https://journals.plos.org/plosone/)
 - Data Repo: [Zenodo](https://zenodo.org/)
 - Data Repo: [Dryad](https://datadryad.org/)
-- [Compiled folder](docs/_data/pdfs/Laccaria) of <i>Laccaria</i> taxonomy and systematics
+- [Compiled folder](https://github.com/CU-ESIIL/Summit_group_2026_4/edit/main/docs/_data/pdfs/Laccaria) of <i>Laccaria</i> taxonomy and systematics
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
