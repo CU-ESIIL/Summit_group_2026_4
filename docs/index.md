@@ -248,15 +248,14 @@ Once we have developed this tool, researchers from across disciplines should be 
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
-Short term:
-
-- Make a plan for continued collaboration after the unconference. Meet once a month over zoom?
+### Short term:
+- Make a plan for continued collaboration after the unconference. Meet once a month over zoom to coordinate progress and communicate productivity and short term progress over our Slack channel.
 
 - Work as a group remotely to develop the foundational tools for this AI workflow that is developed to extract data from published research and harmonize the data to create analyzable meta-datasets (A3IW).
 
 - Collaborate on a paper for Environmental Data Science that describes the foundational results of our AI workflow .
 
-Long term:
+### Long term:
 - Continue to develop the above-ground applications of the workflow so it can apply to working with data from multiple discilplines.
 
 - Questions we can attempt to address:
