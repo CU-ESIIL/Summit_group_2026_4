@@ -124,7 +124,7 @@ Credit: Allison Horst
 
 - Methods/Perspective paper regarding AI-enabled workflow, including case studies from various fields and with various outputs. 
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_pic.jpeg)
+![Day 2 morning whiteboard or notes photo](assets/whiteboards/whiteboard_d2.jpeg)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
