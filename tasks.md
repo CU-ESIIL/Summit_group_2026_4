@@ -24,7 +24,7 @@ Prompt the user to provide the following inputs:
 Determine whether the selected open access journal can be accessed.
 
 - If the journal cannot be accessed:
-  - Stop the workflow.
+  - Pause the workflow.
   - Display a failure message.
 
 ### Task 2
