@@ -182,9 +182,9 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| Agentic AI | ... | ... |
-| Semantic Matching of Data | ... | ... |
-| Redundancy Detection/Elimination | ... | ... |
+| Agentic AI | Language models through Roo (minimax model) | Successful at finding publications and pulling data |
+| Semantic Matching of Data | In progress | In progress |
+| Redundancy Detection/Elimination | In progress | In progress |
 
 
 ### Challenges identified
@@ -231,16 +231,16 @@ Headline 2 — change/trend/contrast
 Ourgroup developed and tested markdown files for the following:
 - Agent.md - provides an overview of the basic rules for the AI Agent to follow, but directs it to tasks.md
 - tasks.md - provides an overview of each step in the workflow and with markdown file to refer to.
-- STEP1.md
-- STEP2.md
-- STEP3.md
+- STEP1.md - accepts user inputs, queries available journals and databases for potential publications and data sources.
+- STEP2.md - extracts data from each identified source into a tabular format, presents data to user for review.
+- STEP3.md - harmonizes identified data tables based on user preferences (in progress).
 
 
 Headline 3 — implication for practice or policy
 
 Once we have developed this tool, researchers from across disciplines should be able to assemble datasets relevant to their research. This will ideally assist reseachers in producing comprehensive datasets that incorporates the greatest possible breadth of data available for their research questions.
 
-## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
+## Visual representation of findings 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 ![Story visual](assets/figures/visual.png)
 
