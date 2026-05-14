@@ -228,7 +228,12 @@ Iterative tests of the developed agents have helped us to understand:
 
 Headline 2 — change/trend/contrast
 
-Ourgroup developed and tested markdown files for the following tasks:
+Ourgroup developed and tested markdown files for the following:
+- Agent.md - provides an overview of the basic rules for the AI Agent to follow, but directs it to tasks.md
+- tasks.md - provides an overview of each step in the workflow and with markdown file to refer to.
+- STEP1.md
+- STEP2.md
+- STEP3.md
 
 
 Headline 3 — implication for practice or policy
