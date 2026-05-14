@@ -239,15 +239,21 @@ Headline 3 — implication for practice or policy
 
 Short term:
 
-- ...
+- Work as a group remotely to develop the foundational tools for this AI workflow for extracting data from published research and harmonizing the data to create analyzable meta-datasets (A3IW).
+
+- Collaborate on a paper for Environmental Data Science that describes the foundational results of our AI workflow .
 
 Long term:
 
-- ...
+- Continue to develop the above-ground applications of the workflow so it can apply to working with data from multiple discilplines.
+
+- Questions we can attempt to address:
+    How well can the AI retrieve diverse data sources from a discipline like biology? An example would be, can a systematic biologist gather molecular sequence data from studies as easily as an ecologist can assemble community data.
+    Can the AI workflow switch from diverse disciplines such as biology, to climate data, to water or air quality data, to geological data, to remote sensing data, etc. etc.?
 
 Who should see this next
 
-- ...
+- People who know how to develop AI tools better than us. At least to see if we're developing an efficient and functional AI workflow.
 
 ## Cite & Reuse { #cite-reuse }
 
