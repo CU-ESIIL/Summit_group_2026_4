@@ -26,23 +26,5 @@ Guidelines for agents:
 
 ## Repository Purpose
 
-Template for scientists learning how AI can harmonize environmental datasets.
 See **TASKS.md** for a plain-English description of the harmonization pipeline.
-The **TASKS.md** file does not contain any specific instructions, but instead should serve as a general reference for aligning the agent goals.
-
----
-
-## Task 1: Locate publications
-
-Read `task1.md` for instructions on this step.
-
----
-
----
-
-## Task 2: Data library building
-
-Read `task2.md` for instructions on this step.
-
----
-
+The **TASKS.md** file does not contain any specific instructions, but instead should serve as a general reference for aligning the agent goals. Specific instructions (regarding code, etc.) are contained within files structured as `STEPX.md`. The **TASKS.md** will instruct you to reference specific step files for detailed instructions on each task.
