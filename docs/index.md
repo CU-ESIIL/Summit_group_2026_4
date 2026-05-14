@@ -220,17 +220,13 @@ Methods/technologies we are testing:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
-
-Iterative tests of the developed agents have helped us to understand:
-
+#### Headline 1 — what, where, how much
+##### Iterative tests of the developed agents have helped us to understand:
 - The ability of the AI agent to complete tasks when given multiple or individual commands.
       Initial outcomes showed that the results of directions depended on whether they were given one at a time or in combination. Example: "Find me a paper on x subject AND extract it's data" did not work as well as "Find me a paper on x subject" followed by "Please extract it's data".
 
-Headline 2 — change/trend/contrast
-
-Ourgroup developed and tested markdown files for the following:
-
+#### Headline 2 — change/trend/contrast
+##### Our group developed and tested markdown files for the following:
 - Agent.md - provides an overview of the basic rules for the AI Agent to follow, but directs it to tasks.md
 - tasks.md - provides an overview of each step in the workflow and with markdown file to refer to.
 - STEP1.md - accepts user inputs, queries available journals and databases for potential publications and data sources.
@@ -238,7 +234,7 @@ Ourgroup developed and tested markdown files for the following:
 - STEP3.md - harmonizes identified data tables based on user preferences (in progress).
 
 
-Headline 3 — implication for practice or policy
+#### Headline 3 — implication for practice or policy
 
 Once we have developed this tool, researchers from across disciplines should be able to assemble datasets relevant to their research. This will ideally assist reseachers in producing comprehensive datasets that incorporates the greatest possible breadth of data available for their research questions.
 
