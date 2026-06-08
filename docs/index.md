@@ -198,7 +198,7 @@ Methods/technologies we are testing:
 - Access to journals for agents
 - Access to papers with datasets already available, vs. pulling papers that were printed before data was digitized.
 
-### Visuals { #Project-Workflow } 
+## Visuals { #project-workflow } 
 
 ![Method or workflow visual](assets/workflow.png)
 
