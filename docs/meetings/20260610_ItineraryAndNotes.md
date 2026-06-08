@@ -19,8 +19,14 @@ Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
       | 1. Publication Search  | Yes           |                |
       | 2. Metadata Extraction | Yes?          |                |
       | 3. Data Harmonization  | No            |                |
-    - List tasks that need to be done
-    - Develop timeline
+  - List tasks that need to be done
+    - Develop step 3.
+    - Testing progress.
+    - Optimization of steps.
+    - Seeking input from outside testers (colleagues), and ESIIL staff (Ty Tuff, Cassie Buhler, others?)
+    - Liturature Review... what developments or similar tools have been created? Is our's different? Better? How can we make ours an original contribution?
+      - Ask our meta-analysis tool to do a meta-analysis of other meta-analysis tools.... 🤔 
+  - Develop timeline
 
 - **Wrap Up** (10 minutes: end)
   - Assign Tasks
