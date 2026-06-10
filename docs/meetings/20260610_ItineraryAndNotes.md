@@ -52,5 +52,16 @@ Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
   - What is our overall thesis? Can we have an AI tool that gets access to journals and then extracts the data?
   - Has this grown beyond that? Or should we begin with this focus, witht hte idea to grow into more?
     - Does this idea fit the call for papers?
-  -  Rick: Can agentic AI lcoate and access journal articles that provide an access point to associated datasets, gather those datasets, and integrate them in a way that is then analysis ready?
+  -  Rick: Is this part of our thesis? Can agentic AI locate and access journal articles that provide an access point to associated datasets, gather those datasets, and integrate them in a way that is then analysis ready?
+  -  Can we continue to test this across fields, and then perhaps find a small question within a particular field so that a sueable output is created?
+  -  Qingyu: we dont have ability to create AI that can be used across all fields, but can we build a skeleteon, so that anyone can do the last 10% of the configuration to make it useful for their work?
+  -  How do we make it so the AI harmonizes the data in a way the user want it to?
+  -  Qinghua joins!
+ 
+  -  Let's all keep playing with the Agent to see if we can it it to harmonize the data better
+  -  We tested 1 field/question during the workshop and data came back, but was messy and liekly incomplete
+  -  How limited is the Agent tool when the question becomes specific.
+  -  Method paper may be the way to go
+  -    We describe how the agentic workflow works, was built, and then the last 40% of the paper are 3 or so examples of implemeting the method
+  -    What is the problem we are trying to solve? We are trying to find and integrate already publicly available data, that may be not-easily discoverable?
     
