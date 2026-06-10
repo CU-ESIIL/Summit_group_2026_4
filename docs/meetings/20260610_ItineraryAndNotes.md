@@ -64,4 +64,6 @@ Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
   -  Method paper may be the way to go
   -    We describe how the agentic workflow works, was built, and then the last 40% of the paper are 3 or so examples of implemeting the method
   -    What is the problem we are trying to solve? We are trying to find and integrate already publicly available data, that may be not-easily discoverable?
+  -    Can we each create a branch of the github repo and individually (or in a group) make changes or tweaks to the AGENT, tasks, and STEP instruction files, using our own individual research questions of interest, and try to improve the results we get back? What works? Which changes prompted the Agent to work better? Which things didnt work or made it worst?
+  -    Andy: AI isn an alien and we are trying to talk with the alien. 
     
