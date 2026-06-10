@@ -12,6 +12,10 @@ Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
   - https://www.cambridge.org/core/journals/environmental-data-science
 
 - **Review DataBuffs Goals** (30 minutes: advance at X:50)
+
+*Current issue with accessing the agentic services we used at the Innovation Summit*
+*Andy sent Ty Tuff and Cassie Buhler a message to see if they could help provide access*
+  
   - Overview of project workflow
     - List accomplishments and to-dos
     - | Steps                  | Accomplished? | Optimizations? |
