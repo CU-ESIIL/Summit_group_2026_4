@@ -36,7 +36,7 @@ Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
   - Assign Tasks
   - Schedule next meeting
  
-- **Notes:
+##Notes:
   - We will all share authorship
   - Person that does most of the heavy lifting shall be 1st author
   - Andy is happy to defer this role - possibility for Lucas and Jenna
