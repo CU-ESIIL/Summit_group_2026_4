@@ -1,5 +1,5 @@
 
-# 20260510 Itinerary And Notes
+# 20260610 Itinerary And Notes
 Time: 1pm PT, 2pm MT, 3pm CT, 4pm ET.
 
 Zoom: https://us06web.zoom.us/j/83234409750?pwd=4o7L1gtHOb408A5PqDIHTGWH4FWM1r.1
